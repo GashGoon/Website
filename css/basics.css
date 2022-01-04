@@ -54,7 +54,7 @@ a.hover-anim:hover::before {
 /*Sets anchor properties*/
 a {
     text-decoration: none;
-    color:rgb(10, 10, 10);
+    color:rgb(238, 228, 228);
 }
 
 /*Dropdown & Dropdown Animations*/
