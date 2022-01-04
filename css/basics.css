@@ -25,9 +25,9 @@ header h3 {
     display: inline-block;
     padding-left: 15px;
     padding-right: 15px;
-    border-right: solid 1px rgb(235, 226, 226);
+    border-right: solid 1px rgb(3, 3, 3);
     margin-top: 24px;
-    color:rgb(235, 226, 226);
+    color:rgb(2, 2, 2);
 }
 
 /*Anchor Animations*/
