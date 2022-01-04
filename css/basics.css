@@ -41,7 +41,7 @@ a.hover-anim::before {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: rgb(8, 8, 8);
+    background-color: rgb(0, 190, 248);
     visibility: hidden;
     transform: scaleX(0);
     transition: all 0.3s ease-in-out;
@@ -54,7 +54,7 @@ a.hover-anim:hover::before {
 /*Sets anchor properties*/
 a {
     text-decoration: none;
-    color:rgb(238, 228, 228);
+    color:rgb(8, 8, 8);
 }
 
 /*Dropdown & Dropdown Animations*/
