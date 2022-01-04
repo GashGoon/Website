@@ -27,7 +27,7 @@ header h3 {
     padding-right: 15px;
     border-right: solid 1px rgb(236, 232, 232);
     margin-top: 24px;
-    color:rgb(20, 20, 20);
+    color:rgb(241, 235, 235);
 }
 
 /*Anchor Animations*/
@@ -54,7 +54,7 @@ a.hover-anim:hover::before {
 /*Sets anchor properties*/
 a {
     text-decoration: none;
-    color:rgb(8, 8, 8);
+    color:rgb(243, 235, 235);
 }
 
 /*Dropdown & Dropdown Animations*/
