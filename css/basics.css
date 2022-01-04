@@ -67,7 +67,7 @@ a {
     transform-origin: top center;
 }
 .dropdown-anim {
-    background-color:rgb(24, 21, 21);
+    background-color:rgb(0, 217, 255);
     box-shadow: 3px 3px 3px 1px black;
     display: none;
     position: absolute;
